@@ -89,7 +89,7 @@ https://github.com/Soni875612/HR-Attrition-Analysis/raw/main/data.csv
 
 1️⃣ Clone Repository
 
-git clone https://github.com/your-username/HR-Attrition-Analysis.git  
+git clone https://github.com/Soni875612e/HR-Attrition-Analysis.git  
 cd HR-Attrition-Analysis  
 
 2️⃣ Install Dependencies
