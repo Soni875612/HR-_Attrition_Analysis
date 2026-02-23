@@ -114,6 +114,7 @@ streamlit run app.py
 ---
 ## project screenshot
 <img width="1919" height="907" alt="Screenshot 2026-02-16 200910" src="https://github.com/user-attachments/assets/d3fa5b90-8952-47fb-acf2-c8ed9c4c668b" />
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/3b6287d8-0b75-48e0-a73b-dc2f09c7e929" />
 
 ## 📈 Business Impact
 
